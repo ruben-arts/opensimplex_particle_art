@@ -4,3 +4,6 @@ Simple processing project to draw some cool noise art.
 To get this working clone the repo and open it as a sketchbook in the https://processing.org/[Processing IDE] 
 Then add https://github.com/KdotJPG[Kurt Spenser]s OpenSimplexNoise gist which will be used as noise generator.
 
+The outcome of this application would look something like:
+image::frames/30495.png[output]
+
